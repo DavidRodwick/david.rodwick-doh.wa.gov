@@ -7,7 +7,7 @@ Get started with GitHub for Washington Department of Health use!
 > Suggestions, feedback, questions, or new ideas can be shared in the [Discussions](https://github.com/DOH-EPI-Coders/GitHub-Basics/discussions).\
 > If you'd like to contribute towards the development of this course, please read the [Contributor Guidelines](https://github.com/DOH-EPI-Coders/GitHub-Basics/blob/main/.github/contributing.md).
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Getting Started</h2></summary>
 
 **Course Overview:**
@@ -38,7 +38,7 @@ Get started with GitHub for Washington Department of Health use!
 </details>
 
 <!--Module 1-->
-<details id=1>
+<details id=1 open>
 <summary><h2>Module 1: Fundamentals</h2></summary>
 Please read and follow these instructions carefully.
 
